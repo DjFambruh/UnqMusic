@@ -1,0 +1,10 @@
+pyrogram
+tgcrypto
+pytgcalls
+yt-dlp
+motor
+python-dotenv
+aiohttp
+Pillow
+ffmpeg-python
+psutil
